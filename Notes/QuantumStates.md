@@ -1,5 +1,14 @@
 # Quantum states
 
+### Quantum memory
+
+Quantum memory is the Quantum version of traditional computer memory where
+instead of storing data as as 1 or 0, quantum memory will store a quantum state
+called a qubit.
+
+A qubit is a unit of information stored as a vector, where the two directions
+are written as either a |1> or a |0>.
+
 ### Bell state
 
 Bell states are four specific maximally entangled quantum states of two qubits.

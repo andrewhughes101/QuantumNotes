@@ -1,4 +1,4 @@
-baseURL = "https://ahughes.dev/Quantum"
+baseURL = "https://quantum.ahughes.dev"
 languageCode = "en-gb"
 title = "Quantum Notes"
 theme = "ezhil"

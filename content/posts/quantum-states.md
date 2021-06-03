@@ -1,4 +1,8 @@
-# Quantum states
+---
+title: "Quantum States"
+date: 2020-02-14
+draft: false
+---
 
 ### Quantum memory
 

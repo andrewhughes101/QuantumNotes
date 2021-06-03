@@ -1,0 +1,16 @@
+baseURL = "https://ahughes.dev/Quantum"
+languageCode = "en-gb"
+title = "Quantum Notes"
+theme = "ezhil"
+
+
+copyright = "Copyright © 2021 Andrew Hughes"
+author = "Andrew Hughes"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  mode = "light"
+
+[markup.goldmark.renderer]
+  unsafe = true
